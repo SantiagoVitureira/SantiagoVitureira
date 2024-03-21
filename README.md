@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Santiago Vitureira (22 y/o). Im from Montevideo,Uruguay. Studying software engineering at ORT University. 
 
 <!--
 **SantiagoVitureira/SantiagoVitureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
